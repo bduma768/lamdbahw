@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LXqas7CuCj12k8kAIVDmNDmMXYcktnws7IJabqrLhEQ3RxzYhOersUgBO5dmYYmub1QpzgNFLzeuB4e+OBPckw==",
+  "success": true,
+  "projectFilePath": "/Users/bkaradum/Projects/lambda-hw/lambda-hw/lambda-hw.csproj",
+  "expectedPackageFiles": [
+    "/Users/bkaradum/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/bkaradum/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.2.0/amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
